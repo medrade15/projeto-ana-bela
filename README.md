@@ -1,4 +1,1 @@
-Projeto Ana-Bella - Jamilton Damasceno.
-
-Este foi o meu primeiro contato com HTML e CSS, e consequentemente o primeiro projeto que eu fiz no curso do professor Jamilton Damasceno.
-https://medrade15.github.io/projeto-ana-bela/
+Projeto Ana-Bella - Jamilton DamascenoEstou animado para compartilhar o meu primeiro projeto utilizando HTML e CSS, desenvolvido durante o curso do professor Jamilton Damasceno. Foi uma experiência incrível que me proporcionou uma base sólida nas tecnologias essenciais para o desenvolvimento web.Confira o projeto aqui:https://medrade15.github.io/projeto-ana-bela/
